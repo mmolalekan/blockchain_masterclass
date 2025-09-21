@@ -17,7 +17,7 @@ contract Faucet {
 */
 
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.30;
+pragma solidity ^0.8.7;
 
 contract Faucet {
     function withdraw(uint withdraw_amount) public {
